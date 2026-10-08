@@ -1,0 +1,2 @@
+TikTokLive==7.0.1
+piper-tts==1.8.0
